@@ -69,19 +69,19 @@ The portfolio contains all your information with a beautiful UI, enhanced with 3
   <br><br>
   <img src="readme assets\login.png" alt="Login Page"  width="850px" height="auto"> 
   <br><br><br><br>
-  <b>2) Portfolio Creation - Introduction</b>
+  <b>2) Portfolio Creation -</b> Add an Introduction
   <br><br>
   <img src="readme assets\create1.png" alt="Portfolio Creation - Introduction"  width="850px" height="auto"> 
   <br><br><br><br>
-  <b>3) Portfolio Creation - Overview and Work Experience</b>
+  <b>3) Portfolio Creation -</b> Add Work Experience Details
   <br><br>
   <img src="readme assets\create2.png" alt="Portfolio Creation - Overview and Work Experience"  width="850px" height="auto"> 
   <br><br><br><br>
-  <b>4) Portfolio Creation - Tech Stack and Projects</b>
+  <b>4) Portfolio Creation -</b> Add your Projects Details
   <br><br>
   <img src="readme assets\create3.png" alt="Portfolio Creation - Tech Stack and Projects"  width="850px" height="auto"> 
   <br><br><br><br>
-  <b>5) Portfolio Link Generation</b>
+  <b>5) Portfolio Link Generation - </b> Click on the button to copy the link to your portfolio website
   <br><br>
   <img src="readme assets\create4link.png" alt="Portfolio Link Generation"  width="850px" height="auto"> 
   <br><br><br><br>
